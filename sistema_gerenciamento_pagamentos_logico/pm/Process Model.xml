@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="2114CAE9-5FAA-E1B4-6A41-0E5F4507B404">
-<createdBy>diandrade</createdBy>
-<createdTime>2025-04-25 14:19:26 UTC</createdTime>
-<ownerDesignName>sistema_gerenciamento_pagamentos_logico</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</ProcessModel>

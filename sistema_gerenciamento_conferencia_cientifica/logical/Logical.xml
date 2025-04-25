@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="D8E2E16C-5268-E52F-0AF6-81995262B5B4" mainViewID="F75ADA70-ADF7-3420-8145-0A33EB5669C0">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 18:28:06 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

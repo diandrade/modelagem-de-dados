@@ -1,4 +1,25 @@
-**/*.localz
-**/*.local
-**/*.git
-**/*.DS_Store
+### Oracle Data Modeler ###
+# Diretório de cache e configurações do usuário
+.dmd_cache/
+.dmd_data/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de backup automático
+*.bak
+*.backup
+
+# Logs e históricos
+*.log
+*.dmd.log
+
+# Configurações locais (pode conter paths específicos do ambiente)
+*.settings/
+config/
+
+# Arquivos de workspace (gerados automaticamente)
+*.dmd-workspace
+
+# Arquivos de modelo físico/l

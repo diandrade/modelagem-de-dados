@@ -1,10 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="8D0ABA90-8918-03A9-F4D0-15B40B7C7373" name="Clientes">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0AAC79FF-0743-BBBA-C466-3F4BEC94ECF2" name="Sessao">
 <createdBy>diandrade</createdBy>
-<createdTime>2025-04-25 14:47:34 UTC</createdTime>
-<ownerDesignName>sistema_gerenciamento_pagamentos_logico</ownerDesignName>
+<createdTime>2025-04-25 18:30:00 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
 <engineerTo>
-<item key="D6D28049-A4CC-3937-8BB2-456634D873C8" value="true"/>
+<item key="10331EB4-83F5-F875-C6CA-10D63B184920" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>

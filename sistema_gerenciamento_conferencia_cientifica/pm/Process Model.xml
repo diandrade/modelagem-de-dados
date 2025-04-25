@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="2E0A63EA-B2EE-0F06-189A-EBB1D8FA5231">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 18:28:06 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

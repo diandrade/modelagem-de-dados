@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Submetem/Possuem" directorySegmentName="seg_0" id="6D17BFCD-A0C5-D92A-FC19-6D1CA64103BC">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 18:47:10 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
+<engineerTo>
+<item key="10331EB4-83F5-F875-C6CA-10D63B184920" value="true"/>
+</engineerTo>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>EE9D343B-DD53-7EC5-1E03-1068C43D4FB6</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>921A6BBD-E31E-2758-80DF-474E5B0815E2</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

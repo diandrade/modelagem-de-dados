@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="sistema_gerenciamento_conferencia_cientifica" id="72191303-6F4A-20F0-F157-6EE9563DC082" version="3.5">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 18:28:06 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>72191303-6F4A-20F0-F157-6EE9563DC082</designId>
+</OSDM_Design>

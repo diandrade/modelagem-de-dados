@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Contem/Contidov1" directorySegmentName="seg_0" id="DFC8D734-7CC5-FD74-4397-FEE62F5D131F">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 18:38:06 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
+<engineerTo>
+<item key="10331EB4-83F5-F875-C6CA-10D63B184920" value="true"/>
+</engineerTo>
+<identifying>true</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>0AAC79FF-0743-BBBA-C466-3F4BEC94ECF2</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>A791034C-2420-1A07-4A1B-3A167DFF3865</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

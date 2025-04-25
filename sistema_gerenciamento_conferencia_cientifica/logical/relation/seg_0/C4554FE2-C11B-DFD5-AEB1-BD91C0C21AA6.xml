@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Avalia/Submete" directorySegmentName="seg_0" id="C4554FE2-C11B-DFD5-AEB1-BD91C0C21AA6">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 18:32:12 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
+<engineerTo>
+<item key="10331EB4-83F5-F875-C6CA-10D63B184920" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>03245D04-5B2E-EAF7-D735-3AAD600F3E41</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>921A6BBD-E31E-2758-80DF-474E5B0815E2</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -9,7 +9,7 @@
 <identifying>false</identifying>
 <optionalSource>false</optionalSource>
 <optionalTarget>false</optionalTarget>
-<sourceCardinality>1</sourceCardinality>
+<sourceCardinality>*</sourceCardinality>
 <sourceEntity>42760A73-29B0-B632-B3B2-E697242DCB15</sourceEntity>
 <targetCardinalityString>1</targetCardinalityString>
 <targetEntity>71C2ED16-BCE2-5C4F-CD45-FB78F419BC3D</targetEntity>

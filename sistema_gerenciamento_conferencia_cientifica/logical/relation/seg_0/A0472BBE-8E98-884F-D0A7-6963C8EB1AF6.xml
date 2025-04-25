@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Contem/Contido" directorySegmentName="seg_0" id="A0472BBE-8E98-884F-D0A7-6963C8EB1AF6">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 18:35:39 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_conferencia_cientifica</ownerDesignName>
+<engineerTo>
+<item key="10331EB4-83F5-F875-C6CA-10D63B184920" value="true"/>
+</engineerTo>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>668A8572-25AB-071F-A634-F020762A8052</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>0AAC79FF-0743-BBBA-C466-3F4BEC94ECF2</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
