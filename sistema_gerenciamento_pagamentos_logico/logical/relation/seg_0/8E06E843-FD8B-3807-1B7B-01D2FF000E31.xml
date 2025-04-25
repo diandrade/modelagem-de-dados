@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Atende/Atendido" directorySegmentName="seg_0" id="8E06E843-FD8B-3807-1B7B-01D2FF000E31">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 15:30:37 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_pagamentos_logico</ownerDesignName>
+<engineerTo>
+<item key="D6D28049-A4CC-3937-8BB2-456634D873C8" value="true"/>
+</engineerTo>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>42760A73-29B0-B632-B3B2-E697242DCB15</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>8D0ABA90-8918-03A9-F4D0-15B40B7C7373</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

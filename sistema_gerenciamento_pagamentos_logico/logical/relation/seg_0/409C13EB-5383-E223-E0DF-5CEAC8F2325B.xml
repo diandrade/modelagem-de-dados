@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Conter/Pertence" directorySegmentName="seg_0" id="409C13EB-5383-E223-E0DF-5CEAC8F2325B">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 14:52:19 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_pagamentos_logico</ownerDesignName>
+<engineerTo>
+<item key="D6D28049-A4CC-3937-8BB2-456634D873C8" value="true"/>
+</engineerTo>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>8D0ABA90-8918-03A9-F4D0-15B40B7C7373</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>F3D4FF2A-67FD-3EE3-1D55-35760188BA3E</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="D6D28049-A4CC-3937-8BB2-456634D873C8" mainViewID="6E5B492F-8E67-5530-8E0F-747E43E90B58">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 14:19:31 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_pagamentos_logico</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+</relationalModel>

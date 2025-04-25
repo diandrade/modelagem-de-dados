@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="FAE714CD-CB5B-E9CB-F44F-16D7CCADDA77">
+<createdBy>diandrade</createdBy>
+<createdTime>2025-04-25 14:19:27 UTC</createdTime>
+<ownerDesignName>sistema_gerenciamento_pagamentos_logico</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>
